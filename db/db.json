@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "name": "vishal kumar singh",
+      "email": "vishalkumar@gmail.com",
+      "contact": "5620145620",
+      "address": "chandigarh",
+      "id": 11
+    },
+    {
+      "name": "dipu",
+      "email": "dipu@gmail.com",
+      "contact": "94505662665",
+      "address": "bihar",
+      "id": 12
+    },
+    {
+      "name": "nitesh kumar",
+      "email": "nitesh@gmail.com",
+      "contact": "6489565656",
+      "address": "mohali",
+      "id": 13
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "contact": "9708564566",
+      "address": "mohali",
+      "id": 14
+    },
+    {
+      "name": "sonu",
+      "email": "sonu@gmail.com",
+      "contact": "6456785412",
+      "address": "mohali",
+      "id": 15
+    },
+    {
+      "name": "Rounak kumar",
+      "email": "admin@gmail.com",
+      "contact": "(+1) 456 789 4564",
+      "address": "punjab",
+      "id": 16
+    },
+    {
+      "name": "vishal ",
+      "email": "vishalkumar@gmail.com",
+      "contact": "8888",
+      "address": "mohali",
+      "id": 17
+    },
+    {
+      "name": "Aniket Raj",
+      "email": "Aniket@gmail.com",
+      "contact": "G-456125",
+      "address": "chhapra",
+      "id": 18
+    },
+    {
+      "name": "Naushad",
+      "email": "naushad@gmail.com",
+      "contact": "7845 4545 4545 4454",
+      "address": "motihari",
+      "id": 19
+    }
+  ]
+}

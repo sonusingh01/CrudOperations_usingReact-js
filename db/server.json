@@ -1,0 +1,42 @@
+{
+    "user": [
+      {
+        "name": "sonu singh",
+  
+        "email": "ss@gmail.com",
+        "contact": "8210448823",
+        "address": "siwan , bihar",
+        "id": 1
+      },
+      {
+        "name": "vishal singh",
+  
+        "email": "ss@gmail.com",
+        "contact": "8210448823",
+        "address": "chhapra, bihar",
+        "id": 2
+      },
+      {
+        "name": "Aditya singh",
+        "address": "hajipur , bihar",
+        "email": "ss@gmail.com",
+        "contact": "8210448823",
+        "id": 3
+      },
+      {
+        "name": "kajal singh",
+        "address": "panchkula, haryana",
+        "email": "ss@gmail.com",
+        "contact": "8210448823",
+        "id": 4
+      },
+      {
+        "name": "nitesh kumar",
+        "address": "gopalanj , bihar",
+        "email": "ss@gmail.com",
+        "contact": "8210448823",
+        "id": 5
+      }
+    ]
+  }
+  
